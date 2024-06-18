@@ -45,6 +45,7 @@ public class SecurityConfiguration {
                 .authorizeHttpRequests(authorizeRequests ->
                         authorizeRequests
                                 //Endpoints cerrados y el rol que tiene acceso a ellos
+                                /*
                                 //ARTICULO INSUMO
                                 .requestMatchers(HttpMethod.GET, "/ArticuloInsumo/{id}").permitAll()
                                 .requestMatchers(HttpMethod.GET, "/ArticuloInsumo").hasAnyAuthority("SUPERADMIN","ADMIN", "COCINERO","CAJERO")
@@ -278,7 +279,7 @@ public class SecurityConfiguration {
                                 .requestMatchers(HttpMethod.PUT, "/usuarioEmpleado/{id}").hasAnyAuthority("SUPERADMIN","ADMIN")
                                 .requestMatchers(HttpMethod.DELETE, "/usuarioEmpleado/{id}").hasAnyAuthority("SUPERADMIN","ADMIN")
                                 .requestMatchers(HttpMethod.POST, "/usuarioEmpleado/activate/{id}").hasAnyAuthority("SUPERADMIN","ADMIN")
-
+*/
                                 .anyRequest().permitAll() // Cualquier otro, tiene que estar al menos autenticado, es decir, que tenga un jwt válido
                 )
                 .oauth2ResourceServer(oauth2ResourceServer ->
