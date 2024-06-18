@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb28d3bf-f14d-4581-aa4a-43347fa8dc16" name="Changes" comment="correccion">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6682223f-a1d0-43d7-8e88-1cc1cee220fd" />
+        <option name="url" value="https://github.com/brunomastro165/LAB4-BACKEND-SPRINGBOOT.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hcf3mWXgq6mmwybeLZhT1jkLmE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "395970351591163be152c3bf843831f3",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.buensaborback.configuration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LAB4-BACKEND-SPRINGBOOT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LAB4-BACKEND-SPRINGBOOT" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuenSaborBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="AUTH0_AUDIENCE" value="http://api_auth0_buensabor/" />
+        <env name="AUTH0_ISSUER_URI" value="https://dev-ni2b3u711x5zx2x7.us.auth0.com/" />
+        <env name="CORS_ALLOWED_ORIGINS" value="http://localhost:5173" />
+        <env name="SPRING_SECURITY_DEBUG" value="INFO" />
+        <env name="WEB_SECURITY_DEBUG" value="true" />
+      </envs>
+      <module name="buen-sabor.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.buensaborback.BuenSaborBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb28d3bf-f14d-4581-aa4a-43347fa8dc16" name="Changes" comment="" />
+      <created>1717898096256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717898096256</updated>
+      <workItem from="1717898097964" duration="15644000" />
+      <workItem from="1718279824644" duration="1089000" />
+      <workItem from="1718280961661" duration="11328000" />
+      <workItem from="1718294548274" duration="2690000" />
+      <workItem from="1718298879018" duration="21546000" />
+      <workItem from="1718337608085" duration="905000" />
+      <workItem from="1718362818472" duration="3829000" />
+      <workItem from="1718370618022" duration="24000" />
+      <workItem from="1718651013956" duration="28627000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basico de auth0">
+      <created>1717958048171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717958048171</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basico de auth0 v2">
+      <created>1717963166714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717963166714</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basico de auth0 v3">
+      <created>1717965115615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717965115615</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basico de auth0 v4">
+      <created>1717973776741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717973776741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="haciendo que las funciones de los charts se les pase la idSucursal">
+      <created>1718282982354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718282982354</updated>
+    </task>
+    <task id="LOCAL-00006" summary="corrigiendo error de los charts">
+      <created>1718290983442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718290983442</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modificando endpoint de traer empleados por sucursal ahora trae por string, moviendo mas logica a los service y corrigiendo errores">
+      <created>1718291347461</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718291347461</updated>
+    </task>
+    <task id="LOCAL-00008" summary="endpoint para asignar empleado a pedido">
+      <created>1718292651345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718292651345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="seguridad probando v1">
+      <created>1718294981156</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718294981156</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modificando lo de mercado pago">
+      <created>1718300240534</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718300240534</updated>
+    </task>
+    <task id="LOCAL-00011" summary="limpiando los controllers y corrigiendo error de pedido getPorFecha">
+      <created>1718308826275</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718308826275</updated>
+    </task>
+    <task id="LOCAL-00012" summary="corrigiendo los pedidos si tiene detalles con articulos o promos borradas">
+      <created>1718314712683</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718314712683</updated>
+    </task>
+    <task id="LOCAL-00013" summary="endpoint para traer empleados con rol delivery">
+      <created>1718315809057</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718315809057</updated>
+    </task>
+    <task id="LOCAL-00014" summary="corrigiendo error de stackoverflow">
+      <created>1718319108731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718319108731</updated>
+    </task>
+    <task id="LOCAL-00015" summary="corrigiendo error de stackoverflow v2">
+      <created>1718319346490</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718319346490</updated>
+    </task>
+    <task id="LOCAL-00016" summary="corrigindo errores">
+      <created>1718323420950</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718323420950</updated>
+    </task>
+    <task id="LOCAL-00017" summary="corrigindo errores">
+      <created>1718323449305</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718323449305</updated>
+    </task>
+    <task id="LOCAL-00018" summary="añadiendo endpoint">
+      <created>1718326217847</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718326217847</updated>
+    </task>
+    <task id="LOCAL-00019" summary="corrigiendo errores">
+      <created>1718328300497</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718328300497</updated>
+    </task>
+    <task id="LOCAL-00020" summary="corrigiendo errores de mappers">
+      <created>1718330669068</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718330669068</updated>
+    </task>
+    <task id="LOCAL-00021" summary="corrigiendo errores de mappers">
+      <created>1718338032633</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718338032633</updated>
+    </task>
+    <task id="LOCAL-00022" summary="corrigiendo errores de mappers">
+      <created>1718338307877</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718338307877</updated>
+    </task>
+    <task id="LOCAL-00023" summary="agregando cancelacion">
+      <created>1718365937649</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718365937650</updated>
+    </task>
+    <task id="LOCAL-00024" summary="agregando preparado y restar de vuelta el stock">
+      <created>1718367093230</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367093230</updated>
+    </task>
+    <task id="LOCAL-00025" summary="agregando preparado y restar de vuelta el stock">
+      <created>1718367123649</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718367123649</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ajuste de la seguridad">
+      <created>1718663680415</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1718663680415</updated>
+    </task>
+    <task id="LOCAL-00027" summary="prueba del render">
+      <created>1718664506409</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718664506409</updated>
+    </task>
+    <task id="LOCAL-00028" summary="prueba del render v2">
+      <created>1718666626162</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718666626162</updated>
+    </task>
+    <task id="LOCAL-00029" summary="prueba del render v3">
+      <created>1718667434419</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718667434419</updated>
+    </task>
+    <task id="LOCAL-00030" summary="prueba del render v3">
+      <created>1718713259728</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718713259729</updated>
+    </task>
+    <task id="LOCAL-00031" summary="corrigiendo la seguridad">
+      <created>1718714175418</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718714175418</updated>
+    </task>
+    <task id="LOCAL-00032" summary="corrigiendo la seguridad v2">
+      <created>1718714734514</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718714734514</updated>
+    </task>
+    <task id="LOCAL-00033" summary="correccion">
+      <created>1718738570459</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1718738570459</updated>
+    </task>
+    <task id="LOCAL-00034" summary="correccion">
+      <created>1718738642801</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1718738642801</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basico de auth0 v4" />
+    <MESSAGE value="haciendo que las funciones de los charts se les pase la idSucursal" />
+    <MESSAGE value="corrigiendo error de los charts" />
+    <MESSAGE value="modificando endpoint de traer empleados por sucursal ahora trae por string, moviendo mas logica a los service y corrigiendo errores" />
+    <MESSAGE value="endpoint para asignar empleado a pedido" />
+    <MESSAGE value="seguridad probando v1" />
+    <MESSAGE value="modificando lo de mercado pago" />
+    <MESSAGE value="limpiando los controllers y corrigiendo error de pedido getPorFecha" />
+    <MESSAGE value="corrigiendo los pedidos si tiene detalles con articulos o promos borradas" />
+    <MESSAGE value="endpoint para traer empleados con rol delivery" />
+    <MESSAGE value="corrigiendo error de stackoverflow" />
+    <MESSAGE value="corrigiendo error de stackoverflow v2" />
+    <MESSAGE value="corrigindo errores" />
+    <MESSAGE value="añadiendo endpoint" />
+    <MESSAGE value="corrigiendo errores" />
+    <MESSAGE value="corrigiendo errores de mappers" />
+    <MESSAGE value="agregando cancelacion" />
+    <MESSAGE value="agregando preparado y restar de vuelta el stock" />
+    <MESSAGE value="ajuste de la seguridad" />
+    <MESSAGE value="prueba del render" />
+    <MESSAGE value="prueba del render v2" />
+    <MESSAGE value="prueba del render v3" />
+    <MESSAGE value="corrigiendo la seguridad" />
+    <MESSAGE value="corrigiendo la seguridad v2" />
+    <MESSAGE value="correccion" />
+    <option name="LAST_COMMIT_MESSAGE" value="correccion" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/buensaborback/presentation/rest/ClienteController.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
