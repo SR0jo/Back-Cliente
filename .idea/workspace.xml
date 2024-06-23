@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb28d3bf-f14d-4581-aa4a-43347fa8dc16" name="Changes" comment="correccion">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="cb28d3bf-f14d-4581-aa4a-43347fa8dc16" name="Changes" comment="cosas varias">
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_6_2024_08_17_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/santi/OneDrive/Escritorio/Trabajos y estudio/Cuarto semestre/Laboratorio 4/tp 4/Back-Cliente",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "395970351591163be152c3bf843831f3",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/santi/OneDrive/Escritorio/Trabajos y estudio/Cuarto semestre/Laboratorio 4/tp 4/Back-Cliente&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;395970351591163be152c3bf843831f3&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.buensaborback.configuration" />
@@ -118,7 +120,8 @@
       <workItem from="1718362818472" duration="3829000" />
       <workItem from="1718370618022" duration="24000" />
       <workItem from="1718651013956" duration="28627000" />
-      <workItem from="1718751248203" duration="572000" />
+      <workItem from="1718751248203" duration="859000" />
+      <workItem from="1718811942308" duration="629000" />
     </task>
     <task id="LOCAL-00001" summary="Basico de auth0">
       <created>1717958048171</created>
@@ -365,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718751294641</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="cosas varias">
+      <created>1718753749783</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1718753749783</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Basico de auth0 v4" />
     <MESSAGE value="haciendo que las funciones de los charts se les pase la idSucursal" />
     <MESSAGE value="corrigiendo error de los charts" />
     <MESSAGE value="modificando endpoint de traer empleados por sucursal ahora trae por string, moviendo mas logica a los service y corrigiendo errores" />
@@ -408,7 +417,8 @@
     <MESSAGE value="corrigiendo la seguridad" />
     <MESSAGE value="corrigiendo la seguridad v2" />
     <MESSAGE value="correccion" />
-    <option name="LAST_COMMIT_MESSAGE" value="correccion" />
+    <MESSAGE value="cosas varias" />
+    <option name="LAST_COMMIT_MESSAGE" value="cosas varias" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
