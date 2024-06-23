@@ -22,8 +22,11 @@ repositories {
 }
 
 dependencies {
+    implementation 'de.tschuehly:htmx-supabase-spring-boot-starter:0.3.2'
+    implementation 'org.postgresql:postgresql:42.3.1'
     // OkHttp
     implementation 'com.squareup.okhttp3:okhttp:4.9.1'
+
 
     // Gson
     implementation 'com.google.code.gson:gson:2.8.6'
